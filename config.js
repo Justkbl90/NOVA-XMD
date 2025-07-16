@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "NOVA~DIESEDBD#gNjg3aE1diTEkL7o3r7THmJjGGFp6sTdeSASMm1HYBg",
+SESSION_ID: process.env.SESSION_ID || "NOVA~6whEUIIS#qghOVqaeMABvlFbwWV4O3kjmeqTzSl2TbMbX0KkZj0Y",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
@@ -22,7 +22,7 @@ STICKER_NAME: process.env.STICKER_NAME || "NOVA-XMD",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255767862457",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "233536385545",
 OWNER_NAME: process.env.OWNER_NAME || "nova-xmd",
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙱.𝙼.𝙱-𝚇𝙼𝙳*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/jsqqne.jpg",
