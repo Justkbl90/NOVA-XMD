@@ -37,7 +37,7 @@ try {
     await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: desc }, { quoted: mek });
 
     // Use new API
-    let apiRes = await fetch(`https://api.giftedtech.web.id/api/download/ytmp3?apikey=gifted&url=${encodeURIComponent(url)}`);
+    let apiRes = await fetch(`https://apis.davidcyriltech.my.id/youtube/mp3?url=${encodeURIComponent(song.url)}`);
     let json = await apiRes.json();
 
     if (!json.success) return reply("Failed to fetch audio from new API");
@@ -96,7 +96,7 @@ try {
     await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: desc }, { quoted: mek });
 
     // Use new API
-    let apiRes = await fetch(`https://api.giftedtech.web.id/api/download/dlmp4?apikey=gifted&url=${encodeURIComponent(url)}`);
+    let apiRes = await fetch(`https://apis.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(yts.url)}`);
     let json = await apiRes.json();
 
     if (!json.success) return reply("Failed to fetch video from new API");

@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/f5q902.jpg" width="270" style="border-radius: 20px;" />
+  <img src="https://files.catbox.moe/po6w2r.jpg" width="270" style="border-radius: 20px;" />
 </p>
 
 ---
@@ -37,20 +37,20 @@
 
 ### 🔐 ➌ PAIR SESSION CODE
 
-[![](https://img.shields.io/badge/🔐_PAIR_CODE_SESSION-8A2BE2?style=for-the-badge&logo=codepen)](https://session-bmb-code.onrender.com/)
+[![](https://img.shields.io/badge/🔐_PAIR_CODE_SESSION-8A2BE2?style=for-the-badge&logo=codepen)](https://nova-pair-site.onrender.com)
 
 ---
 
 ### 📸 ➍ QR SESSION ID
 
-[![](https://img.shields.io/badge/📷_SCAN_QR_SESSION-FF00FF?style=for-the-badge&logo=codepen)](https://session-bmb-code.onrender.com/pair)
+[![](https://img.shields.io/badge/📷_SCAN_QR_SESSION-FF00FF?style=for-the-badge&logo=codepen)](https://nova-pair-site.onrender.com)
 
 ---
 
 ### 🚀 DEPLOY TO PLATFORM
 
 **Heroku**  
-[![](https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-6971FF?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/novamd01/NOVA-XMD-/tree/main)
+[![](https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-6971FF?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/novaxmd/NOVA-XMD/tree/main)
 
 **Render**  
 [![](https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-black?style=for-the-badge&logo=render)](https://dashboard.render.com/web/new)
